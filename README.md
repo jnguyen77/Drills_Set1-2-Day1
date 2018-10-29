@@ -1,1 +1,1 @@
-d
+Day1 Javascript Drills 
